@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.main-image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.icon {
+    margin: 10px;
+    width: 39px;
+    height: 27px;
+}
+
+/* Responsive Design for Smaller Screens */
+@media (max-width: 768px) {
+    .main-image {
+        width: 100%; /* Ensure the image scales to fit smaller screens */
+    }
+
+    .icon {
+        width: 30px; /* Adjust icon size for smaller screens */
+        height: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .main-image {
+        width: 90%; /* Slightly smaller for very narrow screens */
+    }
+
+    .icon {
+        width: 25px; /* Further reduce icon size */
+        height: 18px;
+    }
+}
