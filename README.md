@@ -15,10 +15,10 @@
     <br>
     <br>
     <a href="essential-interpersonal-skills-for-business-management.png" title="download certificate" download>
-        <img src="Screenshot 2025-02-25 002627.png" title="download certificate" class="icon">
+        <img src="https://github.com/ceo102/g/blob/main/GBAC/Screenshot%202025-02-25%20002627.png" title="download certificate" class="icon">
     </a>
     <a href="https://www.facebook.com/sharer/sharer.php?u=https://globalbusinessacumencentre.com/wp-content/uploads/learn-press-cert/10048fb26a16864cb815f931d5989d03.png" target="_blank">
-        <img src="Screenshot 2025-03-03 203743.png" alt="Loading share social..." title="Loading share social..." class="icon">
+        <img src="https://github.com/ceo102/g/blob/main/GBAC/Screenshot%202025-03-03%20203743.png" alt="Loading share social..." title="Loading share social..." class="icon">
     </a>
 </body>
 </html>
